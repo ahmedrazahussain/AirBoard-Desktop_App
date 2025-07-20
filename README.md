@@ -1,6 +1,5 @@
 # AirBoard - Gesture-Controlled Drawing and Presentation Desktop App 
 - AirBoard is fully deployed Windows desktop application that lets you draw on the digital canvas and control presentation using hand gestures - no touch, no click, just gestures.
----
 ## Features
 - **Gesture-Based Drawing** - Draw using your hand, no stylus needed
   1. Draw with pointing *Index Finger* up and all other fingers closed.
@@ -12,7 +11,6 @@
 - **MediaPipe Hand Tracking** - Fast and accurate real-time AI
 - **Standalone Installer** - No Python or setup required.
 - **Runs Offline** - Lightweight and privacy-respecting
----
 ## Installation Guide
 ### Download the Installer
 1. Go to the [Releases Page](https://github.com/ahmedrazahussain/AirBoard-Desktop_App/releases/tag/v1.0)
@@ -21,7 +19,6 @@
 **Important Notes:**
 - You might see a **Windows Defender SmartScreen** warning like "Windows protected your PC". Click **More info -> Run anyway** to continue (this is common for new apps without Microsoft signing).
 - **Avoid installing to 'C:\Program Files'** - instead, choose a folder like 'C:\AirBoard' or your Desktop/Downloads to avoid permission issues when saving drawing or using the app.
----
 # Use Cases
 - Smart Classrooms
 - Touchless Presentations
