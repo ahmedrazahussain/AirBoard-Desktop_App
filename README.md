@@ -1,5 +1,5 @@
 # AirBoard - Gesture-Controlled Drawing and Presentation Desktop App 
-- AirBoard is fully deployed Windows desktop application that lets you draw on the digital canvas and control presentation using hand gestures - no touch, no click, just gestures.
+AirBoard is fully deployed Windows desktop application that lets you draw on the digital canvas and control presentation using hand gestures - no touch, no click, just gestures.
 ## Features
 - **Gesture-Based Drawing** - Draw using your hand, no stylus needed
   1. Draw with pointing *Index Finger* up and all other fingers closed.
