@@ -1,4 +1,5 @@
 # AirBoard - Gesture-Controlled Drawing and Presentation Desktop App
+-
 AirBoard is fully deployed Windows desktop application that lets you draw on the digital canvas and control presentation using hand gestures - no touch, no click, just gestures.
 ---
 ## Features
@@ -23,7 +24,7 @@ AirBoard is fully deployed Windows desktop application that lets you draw on the
 - **Avoid installing to 'C:\Program Files'** - instead, choose a folder like 'C:\AirBoard' or your Desktop/Downloads to avoid permission issues when saving drawing or using the app.
 ---
 # Use Cases
-~ Smart Classrooms
-~ Touchless Presentations
-~ Interactive Teaching Boards
-~ Accessibility Solutions
+- Smart Classrooms
+- Touchless Presentations
+- Interactive Teaching Boards
+- Accessibility Solutions
